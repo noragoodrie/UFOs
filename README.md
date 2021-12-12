@@ -9,12 +9,13 @@ Tools used:
 -	HTML
 -	CSS
 
+URL LINK: https://noragoodrie.github.io/UFOs/
 
 **RESULTS**
 
 When you reach the page you can see the title, a description, and a photo of the universe at the very top!
 
-*insert<img width="1348" alt="Screen Shot 2021-12-11 at 4 11 14 PM" src="https://user-images.githubusercontent.com/91299616/145696021-504a9178-3cac-49ee-b8f8-fa7356340acb.png">
+<img width="1348" alt="Screen Shot 2021-12-11 at 4 11 14 PM" src="https://user-images.githubusercontent.com/91299616/145696021-504a9178-3cac-49ee-b8f8-fa7356340acb.png">
 
 Filters before searching as you can see below the table where the Date, City, Stata, Country, Shape Duration and Comments are collected. If you look under the portion where it says “Filter Search” you can see that there are 5 filters you can use to search through the data instead of scrolling through it all. We haven’t filtered any of the data yet but you can see that within the text area that there are place holders to show what you are able to search in there.
 
